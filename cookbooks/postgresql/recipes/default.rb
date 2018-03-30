@@ -18,5 +18,5 @@ end
 
 
 service 'postgresql' do
-        action [:enable, start]
+        action [:enable, :start]
 end

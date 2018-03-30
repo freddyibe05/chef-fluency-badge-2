@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "fibe"
 client_key               "#{current_dir}/fibe.pem"
-chef_server_url          "https://freddy0000000052.mylabserver.com/organizations/freddyspcb"
+chef_server_url          "https://freddy0000000053.mylabserver.com/organizations/freddyspcb"
 cookbook_path            ["#{current_dir}/../cookbooks"]
